@@ -1,0 +1,149 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  font-family: "Poppins", system-ui, -apple-system, sans-serif;
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  /* background-image: radial-gradient(
+    circle,
+    #c95555,
+    #c74d51,
+    #c5464e,
+    #c23d4b,
+    #c03448,
+    #c02e43,
+    #bf273f,
+    #bf1f3a,
+    #c01b32,
+    #c01829,
+    #c01620,
+    #bf1515
+  ); */
+  /* background-image: radial-gradient(
+    circle,
+    #221fea,
+    #0029cc,
+    #002cad,
+    #002b8d,
+    #00286d,
+    #02245f,
+    #051f51,
+    #071b44,
+    #041745,
+    #041346,
+    #050d46,
+    #0a0646
+  ); */
+  /* background-image: radial-gradient(
+    circle,
+    #dcc34f,
+    #d9be49,
+    #d5b843,
+    #d2b33c,
+    #cfae36,
+    #caa32e,
+    #c49927,
+    #be8e20,
+    #b37c18,
+    #a86b11,
+    #9b5a0b,
+    #8e4906
+  ); */
+  /* background-image: radial-gradient(
+    circle,
+    #54fbfb,
+    #49f1f9,
+    #40e7f7,
+    #3addf3,
+    #38d3ef,
+    #36c7e6,
+    #35badc,
+    #35aed2,
+    #339dc1,
+    #308caf,
+    #2d7b9e,
+    #2a6b8c
+  ); */
+  color: #fff;
+}
+
+.glass-container {
+  backdrop-filter: blur(9rem);
+  -webkit-backdrop-filter: blur(6rem);
+  border-radius: 15px;
+}
+Container {
+  padding-top: 2rem;
+  border-radius: 3rem;
+  backdrop-filter: blur(3rem);
+  -webkit-backdrop-filter: blur(3rem);
+}
+.navbar {
+  background: rgba(13, 13, 13, 0.3);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  padding: 2rem;
+  border-radius: 2.5rem;
+  -webkit-border-radius: 2.5rem;
+  -moz-border-radius: 2.5rem;
+  -ms-border-radius: 2.5rem;
+  -o-border-radius: 2.5rem;
+}
+
+.sidebar {
+  background: rgba(13, 13, 13, 0.3);
+  backdrop-filter: blur(8rem);
+  -webkit-backdrop-filter: blur(8rem);
+  border-right: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.content-area {
+  background: rgba(13, 13, 13, 0.25);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  min-height: 500px;
+}
+
+/* Custom scrollbar for webkit browsers */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(13, 13, 13, 0.5);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(42, 52, 60, 0.8);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(58, 68, 76, 0.9);
+}
+
+/* Search icon color */
+.search-icon {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 1.2rem;
+  margin-right: 18px;
+  margin-top: 4px;
+}
+.search-icon:hover {
+  cursor: pointer;
+  border-radius: 0.4rem;
+  transition: 0.3s ease;
+  -webkit-transition: 0.3s ease;
+  -moz-transition: 0.3s ease;
+  -ms-transition: 0.3s ease;
+  -o-transition: 0.3s ease;
+  color: rgba(224, 53, 53, 0.884);
+}
+/* Image styles */
+.ratio img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}

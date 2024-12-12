@@ -1,0 +1,20 @@
+.me-2::placeholder {
+  color: rgba(255, 255, 0, 0.6) !important;
+  opacity: 1;
+}
+
+/* For Firefox */
+.me-2::-moz-placeholder {
+  color: rgba(255, 255, 0, 0.6) !important;
+  opacity: 1;
+}
+
+/* For Internet Explorer */
+.me-2:-ms-input-placeholder {
+  color: rgba(255, 255, 0, 0.6) !important;
+}
+
+/* For Microsoft Edge */
+.me-2::-ms-input-placeholder {
+  color: rgba(255, 255, 0, 0.6) !important;
+}

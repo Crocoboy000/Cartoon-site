@@ -1,0 +1,102 @@
+{
+  "cartoons": [
+    {
+      "name": "Batman",
+      "description": "A series featuring the adventures of the Dark Knight.",
+      "genre": "action",
+      "episodes": 85,
+      "src": "BatmanBc.jpg"
+    },
+    {
+      "name": "Ninja Go",
+      "description": "A series about the adventures of a group of ninjas.",
+      "genre": "Action",
+      "episodes": 100,
+      "src": "NinjaGobc.jpg"
+    },
+    {
+      "name": "Teen Titans",
+      "description": "A series following the adventures of a team of young superheroes.",
+      "genre": "fantasy",
+      "episodes": 65,
+      "src": "TeentitansBc.jpg"
+    },
+    {
+      "name": "Slughter",
+      "description": "A series about the adventures of a group of young slugs.",
+      "genre": "Adventure",
+      "episodes": 40,
+      "src": "slugteraBc.jpg"
+    },
+    {
+      "name": "Turtels",
+      "description": "A series about the adventures of a group of mutant turtles.",
+      "genre": "Action",
+      "episodes": 50,
+      "src": "turtelsBc.jpg"
+    },
+    {
+      "name": "Scooby-Doo",
+      "description": "A series about a group of friends solving mysteries with their dog, Scooby-Doo.",
+      "genre": "adventure",
+      "episodes": 150,
+      "src": "scoobyBc.jpg"
+    },
+    {
+      "name": "Rex",
+      "description": "A series about the adventures of a young hero with the power to transform.",
+      "genre": "Action",
+      "episodes": 45,
+      "src": "RexBc.jpg"
+    },
+    {
+      "name": "OVGW",
+      "description": "A series about a group of friends solving obstacles with their dog",
+      "genre": "Mystery",
+      "episodes": 90,
+      "src": "overBc.jpg"
+    },
+    {
+      "name": "Adventure time",
+      "description": "A series about a group of friends solving mysteries.",
+      "genre": "Adventure",
+      "episodes": 30,
+      "src": "ATBc.jpg"
+    },
+    {
+      "name": "Odd Parents",
+      "description": "A series about a group of friends solving obstacles with their parents and children",
+      "genre": "Adventure",
+      "episodes": 30,
+      "src": "timyBc.jpg"
+    },
+    {
+      "name": "Shaun The Sheep",
+      "description": "Daily stories about a group of sheep",
+      "genre": "Comedy",
+      "episodes": 10,
+      "src": "sheepBc.jpg"
+    },
+    {
+      "name": "SpongBob Squarepants",
+      "description": "A group of friends solving mysteries in a square pants world",
+      "genre": "Comedy",
+      "episodes": 10,
+      "src": "spongbobBc.jpg"
+    },
+    {
+      "name": "Lilo & Stitch",
+      "description": "A group of friends solving mysteries in a flash world",
+      "genre": "Adventure",
+      "episodes": 10,
+      "src": "liloBc.jpg"
+    },
+    {
+      "name": "Shawlin",
+      "description": "A group of friends solving mysteries in a flash world",
+      "genre": "Adventure",
+      "episodes": 10,
+      "src": "xiawlinBc.jpg"
+    }
+  ]
+}

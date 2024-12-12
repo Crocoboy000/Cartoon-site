@@ -1,0 +1,444 @@
+{
+  "characters": [
+    {
+      "name": "Black Ninja",
+      "description": "A stealthy and agile ninja known for his combat skills.",
+      "skills": ["Stealth", "Martial Arts", "Acrobatics"],
+      "cartoon": "Ninja Adventures",
+      "src": "blackNinja.webp",
+      "genre": "Action"
+    },
+    {
+      "name": "Blue Ninja",
+      "description": "A ninja with control over water and ice elements.",
+      "skills": ["Water Manipulation", "Ice Creation", "Martial Arts"],
+      "cartoon": "Ninja Adventures",
+      "src": "blueNinja.webp",
+      "genre": "Adventure"
+    },
+    {
+      "name": "Cannon",
+      "description": "A powerful character with the ability to shoot energy blasts.",
+      "skills": ["Energy Blasts", "Super Strength", "Durability"],
+      "cartoon": "Hero Battles",
+      "src": "cannon.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Diamond",
+      "description": "A crystalline hero with unbreakable defenses.",
+      "skills": ["Indestructibility", "Sharp Edges", "Super Strength"],
+      "cartoon": "Hero Battles",
+      "src": "diamond.jpg",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Ghost",
+      "description": "A spooky character with supernatural abilities.",
+      "skills": ["Invisibility", "Phasing", "Flight"],
+      "cartoon": "Spooky Tales",
+      "src": "ghost.jpg",
+      "genre": "Horror"
+    },
+    {
+      "name": "Green Ninja",
+      "description": "A ninja with mastery over nature and earth elements.",
+      "skills": ["Nature Manipulation", "Earth Control", "Martial Arts"],
+      "cartoon": "Ninja Adventures",
+      "src": "greenNinja.webp",
+      "genre": "Adventure"
+    },
+    {
+      "name": "Heatblast",
+      "description": "A fiery hero with pyrokinetic abilities.",
+      "skills": ["Fire Manipulation", "Heat Resistance", "Flight"],
+      "cartoon": "Hero Battles",
+      "src": "heatblast.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Red Ninja",
+      "description": "A ninja with mastery over fire elements.",
+      "skills": ["Fire Manipulation", "Martial Arts", "Acrobatics"],
+      "cartoon": "Ninja Adventures",
+      "src": "redNinja.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Upgrade",
+      "description": "A technological being capable of merging with machines.",
+      "skills": ["Technomorphing", "Hacking", "Intelligence"],
+      "cartoon": "Tech Warriors",
+      "src": "upgrade.jpg",
+      "genre": "Kids"
+    },
+    {
+      "name": "White Ninja",
+      "description": "A ninja with light-based powers and incredible speed.",
+      "skills": ["Speed", "Light Manipulation", "Martial Arts"],
+      "cartoon": "Ninja Adventures",
+      "src": "whiteNinja.jpeg",
+      "genre": "Action"
+    },
+    {
+      "name": "Wildmutt",
+      "description": "A beast-like creature with enhanced senses.",
+      "skills": ["Enhanced Senses", "Agility", "Strength"],
+      "cartoon": "Beast Legends",
+      "src": "wildmut.jpg",
+      "genre": "Kids"
+    },
+    {
+      "name": "Wu",
+      "description": "A wise master of elemental arts.",
+      "skills": ["Elemental Control", "Wisdom", "Martial Arts"],
+      "cartoon": "Ninja Adventures",
+      "src": "Wu.webp",
+      "genre": "Drama"
+    },
+    {
+      "name": "XLR8",
+      "description": "A speedster with incredible velocity and agility.",
+      "skills": ["Super Speed", "Agility", "Reflexes"],
+      "cartoon": "Hero Battles",
+      "src": "xlr8.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Two-Face",
+      "description": "A conflicted villain with a split personality.",
+      "skills": ["Intelligence", "Manipulation", "Combat Skills"],
+      "cartoon": "Villain Chronicles",
+      "src": "2face.jpg",
+      "genre": "Drama"
+    },
+    {
+      "name": "Agent",
+      "description": "A skilled spy with expertise in covert operations.",
+      "skills": ["Disguise", "Espionage", "Combat"],
+      "cartoon": "Spy Adventures",
+      "src": "agent.jpg",
+      "genre": "Mystery"
+    },
+    {
+      "name": "Batman",
+      "description": "A dark knight protecting his city.",
+      "skills": ["Martial Arts", "Detective Skills", "High-Tech Gadgets"],
+      "cartoon": "Heroic Tales",
+      "src": "BatmanBc.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Bruce",
+      "description": "A wealthy vigilante with exceptional combat skills.",
+      "skills": ["Combat Skills", "Intelligence", "Wealth"],
+      "cartoon": "Heroic Tales",
+      "src": "bruce.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Chadie",
+      "description": "A brave hero with a strong sense of justice.",
+      "skills": ["Strength", "Bravery", "Leadership"],
+      "cartoon": "Heroic Tales",
+      "src": "chadie.jpg",
+      "genre": "Adventure"
+    },
+    {
+      "name": "Daphne",
+      "description": "A skilled detective solving supernatural mysteries.",
+      "skills": ["Intelligence", "Problem Solving", "Martial Arts"],
+      "cartoon": "Mystery Inc.",
+      "src": "daphine.jpg",
+      "genre": "Mystery"
+    },
+    {
+      "name": "Donnie",
+      "description": "A tech genius with innovative inventions.",
+      "skills": ["Invention", "Technology", "Combat Skills"],
+      "cartoon": "Tech Warriors",
+      "src": "donnie.jpg",
+      "genre": "Kids"
+    },
+    {
+      "name": "Evil",
+      "description": "A dark sorcerer with malevolent intentions.",
+      "skills": ["Dark Magic", "Intelligence", "Manipulation"],
+      "cartoon": "Villain Chronicles",
+      "src": "evil.jpg",
+      "genre": "Horror"
+    },
+    {
+      "name": "Fighter",
+      "description": "A skilled martial artist seeking challenges.",
+      "skills": ["Martial Arts", "Strength", "Speed"],
+      "cartoon": "Combat Masters",
+      "src": "fighter.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Fried",
+      "description": "A hot-headed hero with fire powers.",
+      "skills": ["Heat Generation", "Fire Control", "Durability"],
+      "cartoon": "Hero Battles",
+      "src": "fried.jpg",
+      "genre": "Comedy"
+    },
+    {
+      "name": "Joker",
+      "description": "A chaotic villain with an unpredictable nature.",
+      "skills": ["Chaos", "Deception", "Combat"],
+      "cartoon": "Villain Chronicles",
+      "src": "jocker.jpg",
+      "genre": "Comedy"
+    },
+    {
+      "name": "Kord",
+      "description": "A hero known for his incredible strength and resilience.",
+      "skills": ["Super Strength", "Resilience", "Combat"],
+      "cartoon": "Heroic Tales",
+      "src": "kord.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Leo",
+      "description": "A skilled leader and martial artist.",
+      "skills": ["Leadership", "Martial Arts", "Strategy"],
+      "cartoon": "Ninja Adventures",
+      "src": "Leo.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Mikey",
+      "description": "A fun-loving and agile ninja.",
+      "skills": ["Agility", "Martial Arts", "Humor"],
+      "cartoon": "Ninja Adventures",
+      "src": "mikey.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Penguin",
+      "description": "A cunning villain with a penchant for bird-related crimes.",
+      "skills": ["Deception", "Combat", "Intelligence"],
+      "cartoon": "Villain Chronicles",
+      "src": "pinguin.jpg",
+      "genre": "Horror"
+    },
+    {
+      "name": "Raph",
+      "description": "A tough and strong-willed ninja.",
+      "skills": ["Strength", "Combat Skills", "Bravery"],
+      "cartoon": "Ninja Adventures",
+      "src": "raph.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Riddler",
+      "description": "A villain known for his intelligence and love for puzzles.",
+      "skills": ["Puzzles", "Intelligence", "Deception"],
+      "cartoon": "Villain Chronicles",
+      "src": "riddler.jpg",
+      "genre": "Horror"
+    },
+    {
+      "name": "Shane",
+      "description": "A brave and strong hero with incredible combat skills.",
+      "skills": ["Combat Skills", "Strength", "Bravery"],
+      "cartoon": "Heroic Tales",
+      "src": "shane.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Trixie",
+      "description": "A magical character with the ability to control light.",
+      "skills": ["Light Manipulation", "Magic", "Flight"],
+      "cartoon": "Magic Kingdom",
+      "src": "trixi.jpg",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Velma",
+      "description": "A highly intelligent character with a knack for solving mysteries.",
+      "skills": ["Intelligence", "Problem Solving", "Research"],
+      "cartoon": "Mystery Inc.",
+      "src": "velma.jpg",
+      "genre": "Mystery"
+    },
+    {
+      "name": "Viver",
+      "description": "A character with the power of super speed and agility.",
+      "skills": ["Super Speed", "Agility", "Reflexes"],
+      "cartoon": "Hero Battles",
+      "src": "Viver.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Two-Face",
+      "description": "A conflicted villain with a split personality.",
+      "skills": ["Intelligence", "Manipulation", "Combat Skills"],
+      "cartoon": "Villain Chronicles",
+      "src": "2face.jpg",
+      "genre": "Drama"
+    },
+    {
+      "name": "Agent",
+      "description": "A skilled spy with expertise in covert operations.",
+      "skills": ["Disguise", "Espionage", "Combat"],
+      "cartoon": "Spy Adventures",
+      "src": "agent.jpg",
+      "genre": "Mystery"
+    },
+    {
+      "name": "Batman",
+      "description": "A dark knight protecting his city.",
+      "skills": ["Martial Arts", "Detective Skills", "High-Tech Gadgets"],
+      "cartoon": "Heroic Tales",
+      "src": "BatmanBc.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Bruce",
+      "description": "A wealthy vigilante with exceptional combat skills.",
+      "skills": ["Combat Skills", "Intelligence", "Wealth"],
+      "cartoon": "Heroic Tales",
+      "src": "bruce.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Chadie",
+      "description": "A brave hero with a strong sense of justice.",
+      "skills": ["Strength", "Bravery", "Leadership"],
+      "cartoon": "Heroic Tales",
+      "src": "chadie.jpg",
+      "genre": "Adventure"
+    },
+    {
+      "name": "Daphne",
+      "description": "A skilled detective solving supernatural mysteries.",
+      "skills": ["Intelligence", "Problem Solving", "Martial Arts"],
+      "cartoon": "Mystery Inc.",
+      "src": "daphine.jpg",
+      "genre": "Mystery"
+    },
+    {
+      "name": "Donnie",
+      "description": "A tech genius with innovative inventions.",
+      "skills": ["Invention", "Technology", "Combat Skills"],
+      "cartoon": "Tech Warriors",
+      "src": "donnie.jpg",
+      "genre": "Kids"
+    },
+    {
+      "name": "Evil",
+      "description": "A dark sorcerer with malevolent intentions.",
+      "skills": ["Dark Magic", "Intelligence", "Manipulation"],
+      "cartoon": "Villain Chronicles",
+      "src": "evil.jpg",
+      "genre": "Horror"
+    },
+    {
+      "name": "Fighter",
+      "description": "A skilled martial artist seeking challenges.",
+      "skills": ["Martial Arts", "Strength", "Speed"],
+      "cartoon": "Combat Masters",
+      "src": "fighter.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Fried",
+      "description": "A hot-headed hero with fire powers.",
+      "skills": ["Heat Generation", "Fire Control", "Durability"],
+      "cartoon": "Hero Battles",
+      "src": "fried.jpg",
+      "genre": "Comedy"
+    },
+    {
+      "name": "Joker",
+      "description": "A chaotic villain with an unpredictable nature.",
+      "skills": ["Chaos", "Deception", "Combat"],
+      "cartoon": "Villain Chronicles",
+      "src": "jocker.jpg",
+      "genre": "Comedy"
+    },
+    {
+      "name": "Kord",
+      "description": "A hero known for his incredible strength and resilience.",
+      "skills": ["Super Strength", "Resilience", "Combat"],
+      "cartoon": "Heroic Tales",
+      "src": "kord.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Leo",
+      "description": "A skilled leader and martial artist.",
+      "skills": ["Leadership", "Martial Arts", "Strategy"],
+      "cartoon": "Ninja Adventures",
+      "src": "Leo.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Mikey",
+      "description": "A fun-loving and agile ninja.",
+      "skills": ["Agility", "Martial Arts", "Humor"],
+      "cartoon": "Ninja Adventures",
+      "src": "mikey.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Penguin",
+      "description": "A cunning villain with a penchant for bird-related crimes.",
+      "skills": ["Deception", "Combat", "Intelligence"],
+      "cartoon": "Villain Chronicles",
+      "src": "pinguin.jpg",
+      "genre": "Horror"
+    },
+    {
+      "name": "Raph",
+      "description": "A tough and strong-willed ninja.",
+      "skills": ["Strength", "Combat Skills", "Bravery"],
+      "cartoon": "Ninja Adventures",
+      "src": "raph.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Riddler",
+      "description": "A villain known for his intelligence and love for puzzles.",
+      "skills": ["Puzzles", "Intelligence", "Deception"],
+      "cartoon": "Villain Chronicles",
+      "src": "riddler.jpg",
+      "genre": "Horror"
+    },
+    {
+      "name": "Shane",
+      "description": "A brave and strong hero with incredible combat skills.",
+      "skills": ["Combat Skills", "Strength", "Bravery"],
+      "cartoon": "Heroic Tales",
+      "src": "shane.jpg",
+      "genre": "Action"
+    },
+    {
+      "name": "Trixie",
+      "description": "A magical character with the ability to control light.",
+      "skills": ["Light Manipulation", "Magic", "Flight"],
+      "cartoon": "Magic Kingdom",
+      "src": "trixi.jpg",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Velma",
+      "description": "A highly intelligent character with a knack for solving mysteries.",
+      "skills": ["Intelligence", "Problem Solving", "Research"],
+      "cartoon": "Mystery Inc.",
+      "src": "velma.jpg",
+      "genre": "Mystery"
+    },
+    {
+      "name": "Viver",
+      "description": "A character with the power of super speed and agility.",
+      "skills": ["Super Speed", "Agility", "Reflexes"],
+      "cartoon": "Hero Battles",
+      "src": "Viver.jpg",
+      "genre": "Action"
+    }
+  ]
+}
