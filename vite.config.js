@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/cartoon_web/',  // Add this line - should match your repository name
+  base: '/Cartoon-site/',  // Updated to match your repository name
 })
