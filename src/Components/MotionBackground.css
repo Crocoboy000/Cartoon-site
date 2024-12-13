@@ -4,7 +4,7 @@
   height: 100vh;
   top: 0;
   left: 0;
-  background: linear-gradient(180deg, #1a1a2e 0%, #16213e 100%);
+  background: linear-gradient(190deg, #1a1a2e 0%, #16213e 100%);
   overflow: hidden;
   z-index: -1;
 }
@@ -14,8 +14,8 @@
   bottom: -10rem;
   background: radial-gradient(
     circle at center,
-    rgba(2, 7, 53, 0.8) 0%,
-    rgba(7, 10, 235, 0.363) 60%,
+    rgba(228, 228, 228, 0.8) 0%,
+    rgba(14, 14, 17, 0.623) 60%,
     rgba(6, 104, 231, 0.1) 100%
   );
   border-radius: 50%;
@@ -25,10 +25,9 @@
   animation: float var(--duration) ease-in infinite;
   animation-delay: var(--delay);
   transform: translateZ(0);
-  will-change: transform;
-} */
+}
 
-/* @keyframes float {
+@keyframes float {
   0% {
     transform: translateY(0) scale(1);
     opacity: 0;

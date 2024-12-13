@@ -3,7 +3,7 @@ import "./MotionBackground.css";
 const MotionBackground = () => {
   return (
     <div className="motion-background">
-      {[...Array(15)].map((_, index) => (
+      {[...Array(7)].map((_, index) => (
         <div
           key={index}
           className="bubble"

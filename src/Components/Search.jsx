@@ -28,7 +28,7 @@ function Searcher() {
       <Form.Control
         type="search"
         className="me-2 bg-transparent text-white border-light rounded-4"
-        placeholder="Search cartoons..."
+        placeholder="Search"
         aria-label="Search"
         style={{ width: "250px" }}
         onChange={(event) => setSearchField(event.target.value)}

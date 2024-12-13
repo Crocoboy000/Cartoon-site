@@ -1,8 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
 @import "bootstrap/dist/css/bootstrap.min.css";
 
+@font-face {
+  font-family: "Sour Gummy";
+  src: url("fonts/SourGummy-Regular.ttf") format("truetype"),
+    url("fonts/SourGummy-Bold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
-  font-family: "Poppins", system-ui, -apple-system, sans-serif;
+  font-family: "Sour Gummy", sans-serif;
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
@@ -70,14 +78,14 @@ body {
 }
 
 .glass-container {
-  backdrop-filter: blur(9rem);
+  backdrop-filter: blur(2rem);
   -webkit-backdrop-filter: blur(6rem);
   border-radius: 15px;
 }
 Container {
   padding-top: 2rem;
   border-radius: 3rem;
-  backdrop-filter: blur(3rem);
+  backdrop-filter: blur(1rem);
   -webkit-backdrop-filter: blur(3rem);
 }
 .navbar {
@@ -101,7 +109,7 @@ Container {
 
 .content-area {
   background: rgba(13, 13, 13, 0.25);
-  backdrop-filter: blur(8px);
+  backdrop-filter: blur(2px);
   -webkit-backdrop-filter: blur(8px);
   min-height: 500px;
 }

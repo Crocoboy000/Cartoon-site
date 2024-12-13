@@ -1,8 +1,10 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import react from "@vitejs/plugin-react";
+import { defineConfig } from "vite";
 
-// https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/Cartoon-site/',  // Updated to match your repository name
-})
+  base: "/Cartoon-site/", // Updated to match your repository name
+  build: {
+    outDir: "build", // Ensure the build output directory is 'build'
+  },
+});

@@ -10,9 +10,10 @@ function CatList({ icon, type }) {
     if (type == "All") {
       setDisplay(cartoons);
     } else {
-      const filteredCartoons = cartoons.filter(
-        (cartoon) => cartoon.genre === type
-      );
+      const filteredCartoons = cartoons.filter((cartoon) => {
+        const check = cartoon.genre.map((genre) => genre === type);
+        return check.some(Boolean);
+      });
       setDisplay(filteredCartoons);
     }
   };

@@ -11,7 +11,7 @@ export default function Hero() {
     <Container className="py-4">
       <Row className="g-4">
         {/* Sidebar - 3 columns on medium and larger screens */}
-        <Col md={3}>
+        <Col lg={3} md={4}>
           <div className="sidebar p-4 rounded-5">
             <h4 className="mb-4 cat fw-bold">Categories</h4>
             <ul className="list-unstyled">
@@ -29,7 +29,7 @@ export default function Hero() {
         </Col>
 
         {/* Main Content - 9 columns on medium and larger screens */}
-        <Col md={9}>
+        <Col lg={9} md={8}>
           <div className="content-area p-4 rounded-5">
             {display.length <= 0 && (
               <div className="glass-container p-2 text-center warning-container animate-pulse">
@@ -52,16 +52,16 @@ export default function Hero() {
                   >
                     <div
                       className="glass-container p-3 cards"
-                      style={{ height: "400px" }}
+                      style={{ height: "450px" }}
                     >
                       <div
                         className="card-image-container mb-3 rounded-3"
-                        style={{ height: "250px", overflow: "hidden" }}
+                        style={{ height: "300px", overflow: "hidden" }}
                       >
                         <img
-                          src={`/images/${character.src}`}
+                          src={`./images/${character.src}`}
                           alt={character.name}
-                          className="w-100 h-100"
+                          className="w-120 h-100"
                           style={{ objectFit: "cover" }}
                         />
                       </div>
